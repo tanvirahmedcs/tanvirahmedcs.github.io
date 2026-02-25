@@ -1,0 +1,30 @@
+{
+  "name": "Tanvir Ahmed - Cybersecurity Portfolio",
+  "short_name": "Tanvir.sec",
+  "description": "World-class Cybersecurity Expert & Penetration Tester Portfolio Website",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#030712",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "profile picture.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "profile picture.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "portfolio", "technology"],
+  "lang": "en",
+  "dir": "ltr",
+  "prefer_related_applications": false
+}
+
