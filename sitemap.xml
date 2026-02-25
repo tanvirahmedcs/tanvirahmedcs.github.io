@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+         xmlns:xhtml="http://www.w3.org/1999/xhtml"
+         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://tanvir-ahmed-sec.github.io/portfolio/</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanvir-ahmed-sec.github.io/portfolio/"/>
+    <image:image>
+      <image:loc>https://tanvir-ahmed-sec.github.io/portfolio/profile picture.png</image:loc>
+      <image:title>Tanvir Ahmed - Cybersecurity Expert</image:title>
+    </image:image>
+  </url>
+
+  <!-- About Section -->
+  <url>
+    <loc>https://tanvir-ahmed-sec.github.io/portfolio/#about</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Services Section -->
+  <url>
+    <loc>https://tanvir-ahmed-sec.github.io/portfolio/#services</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://tanvir-ahmed-sec.github.io/portfolio/penetration testing.jpeg</image:loc>
+      <image:title>Penetration Testing Service</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tanvir-ahmed-sec.github.io/portfolio/malware removal.jpeg</image:loc>
+      <image:title>Malware Removal Service</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tanvir-ahmed-sec.github.io/portfolio/hacked website fix.jpeg</image:loc>
+      <image:title>Hacked Website Recovery</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tanvir-ahmed-sec.github.io/portfolio/build wordpress website.jpeg</image:loc>
+      <image:title>WordPress Development</image:title>
+    </image:image>
+  </url>
+
+  <!-- Skills Section -->
+  <url>
+    <loc>https://tanvir-ahmed-sec.github.io/portfolio/#skills</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Experience Section -->
+  <url>
+    <loc>https://tanvir-ahmed-sec.github.io/portfolio/#experience</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Projects Section -->
+  <url>
+    <loc>https://tanvir-ahmed-sec.github.io/portfolio/#projects</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Gallery Section -->
+  <url>
+    <loc>https://tanvir-ahmed-sec.github.io/portfolio/#gallery</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Reviews Section -->
+  <url>
+    <loc>https://tanvir-ahmed-sec.github.io/portfolio/#reviews</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://tanvir-ahmed-sec.github.io/portfolio/review screenshot.png</image:loc>
+      <image:title>Client Review</image:title>
+    </image:image>
+  </url>
+
+  <!-- Contact Section -->
+  <url>
+    <loc>https://tanvir-ahmed-sec.github.io/portfolio/#contact</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>
+
